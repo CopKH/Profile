@@ -10,9 +10,9 @@ function One() {
           <Fade right cascade duration={2000} delay={500}>
             {" "}
             <div className="md:text-xl  text-white content-center md:pl-32 md:pt-40 pl-10 pt-10 ">
-              <p className="md:text-xs">Hello,My name's</p>
+              <p className="md:text-xs">Hello My name is</p>
               <p className="md:text-8xl text-4xl">Paramet KH</p>
-              <p className="md:text-xl text-xl">I'm full stack developer</p>
+              <p className="md:text-xl text-xl">I am full stack developer</p>
               <div className="md:hidden visible md:invisible">
                 <Image src={mypic}  className=""/>
               </div>
