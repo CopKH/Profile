@@ -11,13 +11,13 @@ const About = () => {
             About
           </h2>
           <p className="font-normal text-base leading-6 text-gray-600 mt-6">
-            Hello everyone, My name's Paramet Khampoo-ngern. you can call me
-            "Copter". I'm graduated in Mechanical Engineering from Khon Kaen
+            Hello everyone, My name is Paramet Khampoo-ngern. you can call me
+            Copter. I am graduated in Mechanical Engineering from Khon Kaen
             University. But I felt technology so fast-growing. I learn about
             machine learning by python. It is my first programing language to
-            me. I learn about Machine learning for 3 months. I think I can't
+            me. I learn about Machine learning for 3 months. I think I can not
             create a project about Machine learning because It needs big data
-            which I'm didn't have big data. I decide to learn about web
+            which I am did not have big data. I decide to learn about web
             development.
           </p>
           <p className="font-normal text-xl leading-6 text-gray-900 mt-6">
@@ -33,7 +33,6 @@ const About = () => {
                 width="48"
                 height="48"
                 viewBox="0 0 48 48"
-                // style=" fill:#000000;"
               >
                 <path
                   fill="#0277BD"
