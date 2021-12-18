@@ -24,6 +24,7 @@ function Projects(props) {
                   {products.map((product) => {
                     return (
                       <div
+                        key={product.id}
                         className="transition hover:scale-105 hover:opacity-60 hover:-translate-y-1 "
                         onClick={(e) => {
                           console.log(product.id);
